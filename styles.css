@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+input {
+  font-size: 24px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+h3 {
+  font-size: 24px;
+  margin: 10px 0;
+}
